@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/cocosmos/blob/master/devcard.svg" width="400" alt="Cocosmos Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/cocosmos/cocosmos/blob/master/devcard.svg" width="400" alt="Cocosmos Dev Card"/></a>
 
 <!--
 **cocosmos/cocosmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
