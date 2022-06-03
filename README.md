@@ -9,5 +9,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/cocoricosmos)
 
 <!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/cocosmos"><img src="https://github.com/cocosmos/cocosmos/blob/main/devcard.svg" width="400" align="right" alt="Cocosmos Dev Card"/></a>
+<a href="https://app.daily.dev/cocosmos"><img src="https://github.com/cocosmos/cocosmos/blob/main/devcard.svg" width="400" align="left" alt="Cocosmos Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
