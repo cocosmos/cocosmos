@@ -9,7 +9,7 @@
 <!-- markdownlint-enable MD033 -->
 
 
-- 🔭 I’m currently working on [MyPortfolius](https://github.com/MyPortfolius), [Zombie Game](https://github.com/cocosmos/zombie-game), and other things...
+<!-- 🔭 I’m currently working on [MyPortfolius](https://github.com/MyPortfolius), [Zombie Game](https://github.com/cocosmos/zombie-game), and other things...-->
 
 - 💬 Ask me about **react, next, js**
 
