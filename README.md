@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **react, next, js**
 
-- 📫 How to reach me **mipam.guillot@crea-inseec.com**
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
