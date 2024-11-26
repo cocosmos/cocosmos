@@ -11,10 +11,6 @@
 
 <!-- 🔭 I’m currently working on [MyPortfolius](https://github.com/MyPortfolius), [Zombie Game](https://github.com/cocosmos/zombie-game), and other things...-->
 
-- 💬 Ask me about **react, next, js**
-
-- ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/cocosmos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cocosmos" height="30" width="40" /></a>
